@@ -21,7 +21,7 @@ Equity (held in Trust, with spouse):
 * [Impossible Foods](https://impossiblefoods.com/)
 * [Arda Therapeutics](https://www.ardatherapeutics.com/)
 * Keyhole Therapeutics (co-founder)
-* Interdict Therapeutics (co-founder)
+* Interdict Bio (co-founder)
 
 Consulting/speaker fees/travel within last 2 years:
 
@@ -33,6 +33,7 @@ Consulting/speaker fees/travel within last 2 years:
 * [Arcadia Science](https://www.arcadia.science/)
 * [Octant](https://octant.bio/)
 * RADD Pharmaceuticals
+* [RA Capital](https://www.racap.com/venture)
 * Past: Genentech, Revolution Medicines, Third Rock Ventures, Calico, GSK, Schrodinger, CCG, OpenEye, Roche, AstraZeneca
 
 Sponsored and Collaborative Research:
